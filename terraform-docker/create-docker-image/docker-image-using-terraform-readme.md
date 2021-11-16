@@ -1,0 +1,1 @@
+# This script will create docker nginx image will host on port 80
